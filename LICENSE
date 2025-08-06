@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 snopcatt
+Copyright (c) 2024 PENTU Development Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+IMPORTANT LEGAL DISCLAIMER:
+===========================
+
+This software is intended for authorized security testing and educational 
+purposes only. Users must:
+
+1. Obtain proper written authorization before testing any systems
+2. Comply with all applicable local and international laws
+3. Use the software ethically and responsibly
+4. Not engage in any malicious or illegal activities
+5. Respect the privacy and security of others
+6. Follow responsible disclosure practices
+
+The authors and contributors of this software:
+- Do not condone or encourage illegal activities
+- Are not responsible for any misuse of this software
+- Disclaim all liability for damages resulting from use
+- Strongly encourage ethical security research
+
+By using this software, you acknowledge that you understand these terms
+and agree to use the software only for lawful, authorized purposes.
+
+SECURITY RESEARCHERS: Please follow responsible disclosure practices
+and contribute positively to the security community.
